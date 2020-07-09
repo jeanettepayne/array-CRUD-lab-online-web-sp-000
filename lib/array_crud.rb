@@ -36,5 +36,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+  ["Today", "Tomorrow", "Yesterday", "Every Day", "Never"]
+  array[-1]
 end
