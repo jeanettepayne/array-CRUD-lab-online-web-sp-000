@@ -27,7 +27,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   [1, 2, 3, 4, 5, 6]
-  array[3]
+  array[index_number]
 end
 
 def retrieve_first_element_from_array(array)
